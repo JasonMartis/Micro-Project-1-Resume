@@ -1,0 +1,15 @@
+.left-container {
+  background-color: #474D52;
+  width: 30%;
+  height: 100%;
+  position: relative;
+  display: inline;
+  padding: 20px;
+}
+/* .right-container {
+    background-color: pink;
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    display: inline; */
+}
